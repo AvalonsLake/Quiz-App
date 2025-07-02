@@ -1,1 +1,1 @@
-github Pages Link - 
+github Pages Link -  https://avalonslake.github.io/Quiz-App/
