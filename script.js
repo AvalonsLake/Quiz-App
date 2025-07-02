@@ -117,7 +117,7 @@ const questions = [
     ],
   },
   {
-    question: "What IS The Capitol of Alaska?",
+    question: "What Is The Capitol of Alaska?",
     answers: [
       { text: "Wasilla", correct: false },
       { text: "Anchorage", correct: false },
